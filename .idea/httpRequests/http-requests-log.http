@@ -1,0 +1,18 @@
+GET http://localhost:9988/sys/user/login
+
+<> 2021-03-14T175951.400.json
+
+###
+
+GET http://localhost:9988/sys/user/login
+
+<> 2021-03-14T175846.400.json
+
+###
+
+GET http://localhost:9988/sys/user/login
+
+<> 2021-03-14T174731.404.json
+
+###
+
